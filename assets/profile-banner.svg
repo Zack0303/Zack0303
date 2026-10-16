@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Zack — Practical AI. Clear workflows.</title>
+<desc id="desc">A restrained navy banner introducing tools for research, information and learning.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#101c31"/><stop offset="1" stop-color="#1a3652"/></linearGradient></defs>
+<rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+<path d="M890 0V260M980 0V260M1070 0V260M1160 0V260M800 65H1200M800 130H1200M800 195H1200" stroke="#9ac7c8" stroke-opacity=".10"/>
+<circle cx="1040" cy="130" r="84" fill="none" stroke="#9ac7c8" stroke-opacity=".3"/>
+<circle cx="1040" cy="130" r="52" fill="none" stroke="#9ac7c8" stroke-opacity=".5"/>
+<path d="M997 130H1083M1040 87V173" stroke="#b9e7df" stroke-width="2"/>
+<circle cx="1040" cy="130" r="9" fill="#b9e7df"/>
+<text x="55" y="56" fill="#b9e7df" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">ZACK / BUILDING IN PUBLIC</text>
+<text x="55" y="118" fill="#f2f5f8" font-family="Arial, sans-serif" font-size="42" font-weight="700">Practical AI.</text>
+<text x="55" y="171" fill="#f2f5f8" font-family="Arial, sans-serif" font-size="42" font-weight="700">Clear workflows.</text>
+<text x="57" y="218" fill="#b6c6d8" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">RESEARCH  /  INFORMATION  /  LEARNING</text>
+</svg>
